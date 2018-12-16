@@ -1,9 +1,9 @@
 // #[macro_use]
 // extern crate nom;
 
-mod day6;
+mod day7;
 mod files;
 
 fn main() {
-    day6::task_2();
+    day7::task_1();
 }
